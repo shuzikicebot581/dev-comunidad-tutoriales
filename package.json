@@ -16,5 +16,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/usuario/dev-comunidad-tutoriales.git"
-  }
+  },
+  "keywords": ["tutoriales", "tecnologías", "desarrolladores", "comunidad"]
 }
