@@ -1,7 +1,7 @@
 {
   "name": "dev-comunidad-tutoriales",
   "version": "1.0.0",
-  "description": "Una plataforma que reúne tutoriales en español de diversas tecnologías para la comunidad de desarrolladores.",
+  "description": "Plataforma que reúne tutoriales en español sobre diversas tecnologías para la comunidad de desarrolladores.",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js"
