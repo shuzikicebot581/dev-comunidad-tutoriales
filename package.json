@@ -12,5 +12,9 @@
     "mongoose": "^6.0.0"
   },
   "author": "Tu Nombre <tu_nombre@ejemplo.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/usuario/dev-comunidad-tutoriales.git"
+  }
 }
